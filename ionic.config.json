@@ -1,0 +1,7 @@
+{
+  "name": "erusApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
