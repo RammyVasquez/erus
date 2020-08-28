@@ -1,6 +1,7 @@
 # erus
 
 Test de Ionic funcionando a través de un API
+Login y Registro de Usuarios a tarvés de Fire Base
 
 
 ### Pre-requisitos 📋
@@ -36,6 +37,7 @@ para visualizar correr el sig. codigo:
 Ionic
 API
 Angular
+FireBase
 
 ## Autores ✒️
 
